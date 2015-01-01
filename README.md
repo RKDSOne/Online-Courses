@@ -14,4 +14,10 @@ Machine Learning
 
 
 Algorithms
+
 [MIT 6.854 Advanced Algorithms  - David Karger](https://www.youtube.com/channel/UCtv9PiQVUDzsT4yl7524DCg/videos)
+
+
+Distributed Systems
+
+[CS 552 University of Washington](http://courses.cs.washington.edu/courses/csep552/13sp/video/)
